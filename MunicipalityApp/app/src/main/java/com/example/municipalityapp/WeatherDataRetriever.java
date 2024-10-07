@@ -10,7 +10,7 @@ import java.net.URL;
 
 public class WeatherDataRetriever {
 
-    private final String API_KEY = "dc8e0c7be8e91b6a1a452e77a9f30745";
+    private final String API_KEY = "xxx";
 
     private final String CONVERTER_BASE_URL ="https://api.openweathermap.org/geo/1.0/direct?q=%s&limit=5&appid=%s";
 
