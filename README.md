@@ -8,3 +8,4 @@ sillä ohjelma on luotu niin, että kaikki tiedot pitää hakea. sry
 
 
 Harjoitustyö oop kurssille
+Tehty Android studiolla ::)
